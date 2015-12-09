@@ -1,7 +1,7 @@
 {
-  "name": "node-js-getting-started",
-  "version": "0.1.5",
-  "description": "A sample Node.js app using Express 4",
+  "name": "Parallel LDA using Gibbs Sampling",
+  "version": "1.0.0",
+  "description": "A CS205 Final Project by Serguei Balanovich and Andre Mauboussin",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -15,12 +15,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/heroku/node-js-getting-started"
+    "url": "https://github.com/sbalanovich/CS205website"
   },
   "keywords": [
-    "node",
-    "heroku",
-    "express"
+    "LDA",
+    "gibbs",
+    "parallel"
   ],
   "license": "MIT"
 }

@@ -1,6 +1,6 @@
 {
   "name": "Parallel LDA using Gibbs Sampling",
-  "description": "A CS205 Final Project by Serguei Balanovuch and Andre Mauboussin",
+  "description": "A CS205 Final Project by Serguei Balanovich and Andre Mauboussin",
   "repository": "https://github.com/sbalanovich/CS205website",
   "logo": "http://node-js-sample.herokuapp.com/node.svg",
   "keywords": ["LDA", "gibbs", "prallel"],
