@@ -1,0 +1,8 @@
+{
+  "name": "Parallel LDA using Gibbs Sampling",
+  "description": "A CS205 Final Project by Serguei Balanovuch and Andre Mauboussin",
+  "repository": "https://github.com/heroku/node-js-getting-started",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["LDA", "gibbs", "prallel"],
+  "image": "heroku/nodejs"
+}
